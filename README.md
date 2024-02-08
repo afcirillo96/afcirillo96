@@ -12,16 +12,11 @@ You can find me on <a href="https://www.linkedin.com/in/cirilloagustinfederico/"
 <span><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></span>
 <br>
 <br>
-<span><img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></span>
 <h4>Backend :gear:</h4>
 <span><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></span>
-<span><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"></span>
 <br>
-<span><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></span>
-<span><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"></span>
 <br>
-<span><img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"></span>
 <h4>Database :floppy_disk:</h4>
 <span><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></span>
 <h4>Random stuff :pushpin:</h4>
