@@ -2,7 +2,7 @@
 
 ###
 
-<img align="left" height="150" src="https://static.wikia.nocookie.net/wowpedia/images/8/8d/Dreadlord_Anim.gif/revision/latest?cb=20060317122837"  />
+<img align="left" height="150" src="https://static.wikia.nocookie.net/wowpedia/images/e/e6/Lichii.gif/revision/latest?cb=20090124030820"  />
 
 ###
 
