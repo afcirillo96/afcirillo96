@@ -109,11 +109,24 @@
   </a>
 </p>
 
-<p>
-  <a href="https://www.linkedin.com/in/cirilloagustinfederico/" target="_blank">
+---
+
+<table>
+  <tr>
+    <td valign="middle">
+      <h3>Thanks for stopping by 👋</h3>
+      <p>
+        Thanks for taking the time to explore my profile.<br/>
+      </p>
+      <p>
+        Feel free to connect with me or check out my repositories.
+      </p>
+    </td>
+    <td width="160" align="right">
       <img
         src="https://media1.tenor.com/m/nWtb3hA3ZXwAAAAd/razedlichtest-lich-warcraft-3.gif"
         height="130"
       />
-  </a>
-</p>
+    </td>
+  </tr>
+</table>
