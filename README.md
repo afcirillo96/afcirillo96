@@ -92,7 +92,6 @@
         <img width="8"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="26"/>
         <img width="8"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="26"/>
       </p>
     </td>
   </tr>
@@ -115,9 +114,6 @@
   <tr>
     <td valign="middle">
       <h3>Thanks for stopping by 👋</h3>
-      <p>
-        Thanks for taking the time to explore my profile.<br/>
-      </p>
       <p>
         Feel free to connect with me or check out my repositories.
       </p>
