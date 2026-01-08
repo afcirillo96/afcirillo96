@@ -50,7 +50,7 @@
   <tr>
     <td width="160" valign="top">
       <img
-        src="https://media1.tenor.com/m/nWtb3hA3ZXwAAAAd/razedlichtest-lich-warcraft-3.gif"
+        src="https://static.wikia.nocookie.net/wowwiki/images/7/76/Cryptlord.gif/revision/latest?cb=20090725100743"
         height="130"
       />
     </td>
@@ -106,5 +106,14 @@
       src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge"
       height="35"
     />
+  </a>
+</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/cirilloagustinfederico/" target="_blank">
+      <img
+        src="https://media1.tenor.com/m/nWtb3hA3ZXwAAAAd/razedlichtest-lich-warcraft-3.gif"
+        height="130"
+      />
   </a>
 </p>
