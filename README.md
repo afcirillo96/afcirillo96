@@ -2,8 +2,10 @@
 
 ###
 
-<img align="left" height="150" src="https://static.wikia.nocookie.net/wowpedia/images/e/e6/Lichii.gif/revision/latest?cb=20090124030820"  />
-<img align="left" height="150" src="https://media1.tenor.com/m/nWtb3hA3ZXwAAAAd/razedlichtest-lich-warcraft-3.gif"/>
+<img align="left" height="150" src="https://static.wikia.nocookie.net/wowpedia/images/e/e6/Lichii.gif/revision/latest?cb=20090124030820" />
+
+###
+
 <img align="left" height="150" src="https://static.wikia.nocookie.net/ageofempires/images/b/bf/Elite_Teutonic_Knight_cometh.gif/revision/latest?cb=20250519172557"/>
 
 ###
@@ -11,13 +13,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -39,6 +35,7 @@
 ###
 
 
+###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/cirilloagustinfederico/" target="_blank">
@@ -48,4 +45,7 @@
 
 ###
 
+
 <br clear="both">
+
+<img align="left" height="150" src="https://media1.tenor.com/m/nWtb3hA3ZXwAAAAd/razedlichtest-lich-warcraft-3.gif"/>
