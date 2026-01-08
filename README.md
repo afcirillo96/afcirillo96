@@ -1,6 +1,6 @@
 <h2>
   <u>
-    Helloo! I'm Agustin Cirillo!
+    Helloo! I'm Agustin!
     <img
       src="https://static.wikia.nocookie.net/ageofempires/images/b/bf/Elite_Teutonic_Knight_cometh.gif/revision/latest?cb=20250519172557"
       height="100"
@@ -77,7 +77,7 @@
   <tr>
     <td width="160" valign="top">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+        src="https://static.wikia.nocookie.net/wowwiki/images/7/7e/Siegeengine.gif/revision/latest?cb=20060724181421"
         height="110"
       />
     </td>
