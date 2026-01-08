@@ -13,6 +13,15 @@
   Full Stack Developer focused on building scalable, maintainable and user-centric web applications.
 </p>
 
+<p>
+  I have worked with <strong>GeoServer</strong>, developing custom scripts and configurations,
+  and I am currently building a <strong>web-based map viewer management application</strong>.
+  My background also includes maintenance and configuration of <strong>production databases</strong>,
+  <strong>network and server monitoring</strong>, and active collaboration with
+  multidisciplinary teams for application integration and delivery.
+</p>
+
+
 <br clear="both">
 
 ---
@@ -58,7 +67,8 @@
       <h3>Backend Development</h3>
       <p>
         Designing robust APIs and backend services with an emphasis on data integrity,
-        security and efficient communication between services.
+        security and efficient communication between services. Experience working with
+        geospatial services, production databases and system integrations.
       </p>
       <p>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="26"/>
@@ -85,13 +95,23 @@
       <h3>Tools & Workflow</h3>
       <p>
         Development workflow oriented to code quality, version control and collaboration
-        across teams and projects.
+        across teams and projects. Experience with containerized environments,
+        scripting and infrastructure monitoring.
+      </p>
+      <p>
+        Tools and technologies include Docker-based workflows, Bash scripting,
+        and monitoring solutions such as Zabbix for production systems.
       </p>
       <p>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="26"/>
         <img width="8"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="26"/>
         <img width="8"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="26"/>
+        <img width="8"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="26"/>
+        <img width="8"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="26"/>
       </p>
     </td>
   </tr>
